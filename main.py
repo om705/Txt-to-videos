@@ -32,9 +32,9 @@ import os
 
 # bot = Client(
 #     "bot",
-#     api_id=api_id,
-#     api_hash=api_hash,
-#     bot_token=bot_token)
+#     api_id=28498858,
+#     api_hash=6cc3cfdeae65b6ae7f47fb828edf38f4,
+#     bot_token=7065990270:AAGWWx42WHw8Q_G4TMtuWe4AgID0E1d3XfM)
 
 bot = Client(
     "bot",
